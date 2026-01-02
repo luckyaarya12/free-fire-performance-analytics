@@ -50,3 +50,9 @@ The following analyses are performed using Python:
 
 ✅ This setup ensures that the code runs smoothly and safely for anyone cloning the repository.
 
+🔍 Key Insights
+- Higher playtime generally leads to higher kills, but returns diminish at higher hours.
+- Certain game modes show consistently higher K/D ratios.
+- Win percentage does not always correlate strongly with total kills.
+
+
