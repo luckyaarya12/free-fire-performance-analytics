@@ -28,11 +28,11 @@ The dataset contains match-level Free Fire performance data stored in Excel form
 
 📈 **Analysis Performed**  
 The following analyses are performed using Python:  
-- 🔹 Scatter plot: Time Played vs Kills  
-- 🔹 Scatter plot: Time Played vs Wins  
-- 🔹 Histogram: K/D Ratio distribution with KDE  
-- 🔹 Bar plot: Average K/D Ratio by Game Mode  
-- 🔹 Bar plot: Overall Average Performance Metrics (Kills, Wins, K/D Ratio, Win Percentage)  
+🔹 Scatter plot: Time Played vs Kills  
+🔹 Scatter plot: Time Played vs Wins  
+🔹 Histogram: K/D Ratio distribution with KDE  
+🔹 Bar plot: Average K/D Ratio by Game Mode  
+🔹 Bar plot: Overall Average Performance Metrics (Kills, Wins, K/D Ratio, Win Percentage)  
 > All visualizations are generated using Matplotlib and Seaborn.  
 
 ▶️ **How to Run the Project**  
